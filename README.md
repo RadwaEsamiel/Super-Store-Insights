@@ -2,19 +2,6 @@
 Super Store Insights
 Tableau Super Store Project
 
-Table of Contents
-- [Project Overview](#project-overview)
-- [General Requirements](#general-requirements)
-- [Overview Dashboard](#overview-dashboard)
-- [Performance Dashboard](#performance-dashboard)
-- [Top 10 Dashboard](#top-10-dashboard)
-- [Installation and Setup](#installation-and-setup)
-- [Usage and Interaction](#usage-and-interaction)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact Information](#contact-information)
-
----
 
 Project Overview
 This project is a Tableau-based data visualization suite designed to analyze the performance of the Super Store dataset. It includes multiple dashboards for analyzing key performance indicators, performance trends, and top sales metrics.
